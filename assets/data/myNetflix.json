@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "title": "Favorites",
+    "data": [
+      {
+        "id": "media-16",
+        "image": "https://dl.dropbox.com/scl/fi/recmq7p6osq0x2a80kuqv/Genie-_make_a_wish_poster2.jpg?rlkey=bw1ai9pqc3jwua1rh9kpu127g&st=5ld0bqni&dl=0",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-5",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie17.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-10",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie4.jpg",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-11",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie9.jpg",
+        "type": "TV_SERIES"
+      }
+    ]
+  }
+]
